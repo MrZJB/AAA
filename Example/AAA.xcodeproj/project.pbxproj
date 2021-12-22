@@ -14,6 +14,9 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		877B6F092773022700DE0C04 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 877B6F052773022700DE0C04 /* .gitkeep */; };
+		877B6F0A2773022700DE0C04 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 877B6F072773022700DE0C04 /* .gitkeep */; };
+		877B6F0B2773022700DE0C04 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 877B6F082773022700DE0C04 /* ReplaceMe.swift */; };
 		954FA49D70176F4196A68CD1 /* Pods_AAA_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5CA99556F7F3733C6F6BA2E /* Pods_AAA_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +31,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2B098E808A7F7BB668CD4862 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2B098E808A7F7BB668CD4862 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		4E6B48F71D4DDB00FC6C73D0 /* Pods-AAA_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AAA_Tests.release.xcconfig"; path = "Target Support Files/Pods-AAA_Tests/Pods-AAA_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* AAA_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AAA_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -41,10 +44,13 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		744BBC0D0D11C04F51060637 /* Pods-AAA_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AAA_Example.release.xcconfig"; path = "Target Support Files/Pods-AAA_Example/Pods-AAA_Example.release.xcconfig"; sourceTree = "<group>"; };
+		877B6F052773022700DE0C04 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		877B6F072773022700DE0C04 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		877B6F082773022700DE0C04 /* ReplaceMe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		92620B8DFFAFA59AF13A20B8 /* Pods-AAA_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AAA_Tests.debug.xcconfig"; path = "Target Support Files/Pods-AAA_Tests/Pods-AAA_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		94F4B073C4384BDA20BF6E53 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		94F4B073C4384BDA20BF6E53 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D5CA99556F7F3733C6F6BA2E /* Pods_AAA_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AAA_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D749ED6150D646874F289333 /* AAA.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = AAA.podspec; path = ../AAA.podspec; sourceTree = "<group>"; };
+		D749ED6150D646874F289333 /* AAA.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = AAA.podspec; path = ../AAA.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E3CDE49B7C5032D162804234 /* Pods_AAA_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AAA_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1431D1C4995D1A955FB9E5C /* Pods-AAA_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AAA_Example.debug.xcconfig"; path = "Target Support Files/Pods-AAA_Example/Pods-AAA_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,6 +99,8 @@
 		607FACD21AFB9204008FA782 /* Example for AAA */ = {
 			isa = PBXGroup;
 			children = (
+				877B6F042773022700DE0C04 /* Assets */,
+				877B6F062773022700DE0C04 /* Classes */,
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
@@ -147,8 +155,26 @@
 				92620B8DFFAFA59AF13A20B8 /* Pods-AAA_Tests.debug.xcconfig */,
 				4E6B48F71D4DDB00FC6C73D0 /* Pods-AAA_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		877B6F042773022700DE0C04 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				877B6F052773022700DE0C04 /* .gitkeep */,
+			);
+			name = Assets;
+			path = ../../AAA/Assets;
+			sourceTree = "<group>";
+		};
+		877B6F062773022700DE0C04 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				877B6F072773022700DE0C04 /* .gitkeep */,
+				877B6F082773022700DE0C04 /* ReplaceMe.swift */,
+			);
+			name = Classes;
+			path = ../../AAA/Classes;
 			sourceTree = "<group>";
 		};
 		C26C5E4C89763534A6858971 /* Frameworks */ = {
@@ -227,6 +253,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -248,7 +275,9 @@
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
+				877B6F0A2773022700DE0C04 /* .gitkeep in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
+				877B6F092773022700DE0C04 /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -331,6 +360,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				877B6F0B2773022700DE0C04 /* ReplaceMe.swift in Sources */,
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
 			);
@@ -478,6 +508,10 @@
 			baseConfigurationReference = F1431D1C4995D1A955FB9E5C /* Pods-AAA_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/AAA/Test",
+				);
 				INFOPLIST_FILE = AAA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -493,6 +527,10 @@
 			baseConfigurationReference = 744BBC0D0D11C04F51060637 /* Pods-AAA_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/AAA/Test",
+				);
 				INFOPLIST_FILE = AAA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;

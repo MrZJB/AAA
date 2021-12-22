@@ -1,0 +1,22 @@
+{
+  "name": "AAA",
+  "version": "0.1.1",
+  "summary": "A short description of AAA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mr.ZJB/AAA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mr.ZJB": "610904360@qq.com"
+  },
+  "source": {
+    "git": "https://gitlab.meitu.com/zjb2/aaa.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AAA/Classes/**/*"
+}
