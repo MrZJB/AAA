@@ -1,5 +1,5 @@
 PODS:
-  - AAA (0.1.2)
+  - AAA (0.1.4)
 
 DEPENDENCIES:
   - AAA (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AAA: 501e61e0a623a3cd7dde69eb0f8d320604ddafec
+  AAA: e1c6abe4870a880f2d08fac714b2efc363742fde
 
 PODFILE CHECKSUM: 03143d353518855a057484e9f64d9ed990d06369
 
